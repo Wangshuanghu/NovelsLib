@@ -5,8 +5,8 @@ hero:
   name: NovelsLib
   tagline: 简单的阅读网站
   image:
-    light: '/light-icon.png'
-    dark: '/dark-icon.png'
+    light: '/icon.png'
+    dark: '/icon.png'
     alt: 'Logo'
   actions:
     - theme: brand
