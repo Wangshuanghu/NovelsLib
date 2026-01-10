@@ -1,8 +1,8 @@
 {
-  "name": "碎月网络",
+  "name": "NovelsLib",
   "type": "module",
   "version": "1.0.0",
-  "description": "碎月网络 官网",
+  "description": "NovelsLib 一个读书网站",
   "private": true,
   "devDependencies": {
     "@femm/prettier": "^1.1.0",
