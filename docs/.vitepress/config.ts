@@ -11,7 +11,9 @@ export default defineConfig({
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
   
   onwarn: true
-    
+
+  }
+                            
   lang: 'zh-CN',
 
   locales: {
