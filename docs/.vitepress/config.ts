@@ -13,6 +13,7 @@ export default defineConfig({
   onwarn: true
 
   }
+  )
                             
   lang: 'zh-CN',
 
