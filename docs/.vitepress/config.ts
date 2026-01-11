@@ -10,7 +10,7 @@ export default defineConfig({
   outDir: './.vitepress/dist',
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
   
-  onwarn
+  onwarn: true
     
   lang: 'zh-CN',
 
